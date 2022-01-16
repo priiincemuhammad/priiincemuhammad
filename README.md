@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Prince Muhammad
-#### React js | React Native Front-End developer
 ![React js | React Native Front-End developer]( https://media-exp1.licdn.com/dms/image/C5616AQF37NIv6Co7ow/profile-displaybackgroundimage-shrink_350_1400/0/1640882393268?e=1648080000&v=beta&t=MZqvCwjkCW5rzcSLiybWl-n4zmGdBHnG8fryWtE-8wc)
+#### React js | React Native Front-End developer
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
