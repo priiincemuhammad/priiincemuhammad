@@ -14,8 +14,5 @@ Skills: JS / REACT JS/ REACT NATIVE / HTML5 / CSS3
 - 💬 Ask me about Front-End development 
 
 
- 
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=prince-muhammad)  
 
 ![Profile views](https://gpvc.arturio.dev/prince-muhammad)  
