@@ -5,7 +5,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: JS / REACT JS/ REACT NATIVE / HTML5 / CSS3
+Skills: JavaScript / REACT JS/ WordPress / Bootstrap5 / HTML5 / CSS3
 
 - 🔭 I’m currently working on Freelancer.com 
 - 🌱 I’m currently learning React Native 
