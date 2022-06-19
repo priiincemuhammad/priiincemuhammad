@@ -8,7 +8,7 @@ Skills: JavaScript / REACT JS/ WordPress / Bootstrap5 / HTML5 / CSS3
 
 - 🔭 I’m currently working on Freelancer.com 
 - 🌱 I’m currently learning React Native 
-- 👯 I’m looking to collaborate on LinkedIn 
+- 👯 I’m looking to collaborate React js projects 
 - 🤔 I’m looking for help with Front-End development 
 - 💬 Ask me about Front-End development 
 
