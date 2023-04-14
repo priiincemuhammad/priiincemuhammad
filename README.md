@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Prince Muhammad</h1>
-<h3 align="left">A passionate Front-End Engineer from Bangladesh</h3>
-(https://media.licdn.com/dms/image/D5616AQEUoo5PvKJIWw/profile-displaybackgroundimage-shrink_350_1400/0/1681350222137?e=1686787200&v=beta&t=dqv2sO5xoZk2uOyEQNIR95CmLhrU8-i7l38UzWQiD8Q)
+<h1 align="left">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, good to see you <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><br />I'm Prince Muhammad</h1>
+<h3 align="left">A passionate Front-End Engineer from Bangladesh</h3> 
 
 - 🔭 I’m currently working on **Freelance Platform**
 
