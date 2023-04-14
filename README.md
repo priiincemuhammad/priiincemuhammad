@@ -17,7 +17,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priiincemuhammad&show_icons=true&locale=en" alt="priiincemuhammad" /></p>
 
-![Profile views](https://gpvc.arturio.dev/priiincemuhammad)  
 
 
 
