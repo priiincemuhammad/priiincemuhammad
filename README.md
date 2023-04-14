@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Prince Muhammad</h1>
 <h3 align="left">A passionate Front-End Engineer from Bangladesh</h3>
-(https://twitter.com/priincemuhammad/header_photo)
+(https://media.licdn.com/dms/image/D5616AQEUoo5PvKJIWw/profile-displaybackgroundimage-shrink_350_1400/0/1681350222137?e=1686787200&v=beta&t=dqv2sO5xoZk2uOyEQNIR95CmLhrU8-i7l38UzWQiD8Q)
 
 - 🔭 I’m currently working on **Freelance Platform**
 
