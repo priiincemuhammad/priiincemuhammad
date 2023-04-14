@@ -6,8 +6,8 @@
 - 👯 I’m looking to collaborate on **React js projects**  - 🤝 I’m looking for help with **Front-End development**
 
 - 💬 Ask me about **Front-End development**  - 👨‍💻 All of my projects are available at [princemuhammad.dev](princemuhammad.dev)
-- 
-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=priiincemuhammad&" alt="priiincemuhammad" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=priiincemuhammad&" alt="priiincemuhammad" /></p>
 
  
 <h3 align="left">Languages and Tools:</h3>
@@ -16,7 +16,7 @@
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priiincemuhammad&show_icons=true&locale=en&layout=compact" alt="priiincemuhammad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priiincemuhammad&show_icons=true&locale=en" alt="priiincemuhammad" /></p>
-
+![Profile views](https://gpvc.arturio.dev/p)  
 
 
 
