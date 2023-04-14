@@ -1,17 +1,14 @@
-![React js | React Native Front-End developer]( https://twitter.com/priincemuhammad/header_photo)
-### Hi there 👋, It's Me Prince Muhammad
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-#### React js Developer | Front-End Expert
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-Skills: JavaScript / TypeScript / REACT JS/ Next.js / React Native
-
-- 🔭 I’m currently working on Freelancer.com 
-- 🌱 I’m currently learning React Native 
-- 👯 I’m looking to collaborate on React js projects 
-- 🤔 I’m looking for help with Front-End development 
-- 💬 Ask me about Front-End development 
+- 🔭 I’m currently working on this page. 
 
 
 
-![Profile views](https://gpvc.arturio.dev/prince-muhammad)  
+
+
