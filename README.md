@@ -1,5 +1,11 @@
 <h1 align="left">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Prince Muhammad</h1>
 <h3 align="left">A passionate Front-End Engineer Based in Bangladesh</h3> 
+<div align="left">
+✨ As a Software Developer, I am constantly seeking to expand my knowledge and skills in the field. While I completed an immersive software engineering program that provided a solid foundation in technology fundamentals and full-stack development, I have also pursued self-directed learning to further enhance my abilities.
+</br>
+</br>
+✨ As a passionate learner, I am always looking for new challenges and opportunities to grow. Currently, I am interested in expanding my knowledge in React.js and React Native, and I am excited to see what the future holds in this ever-evolving field.
+</div>
 
 - 🔭 I’m currently working on **Freelance Platform**    - 🌱 I’m currently learning **Back-End development**
 
