@@ -6,14 +6,15 @@
 <br>
 ✨ As a passionate learner, I am always looking for new challenges and opportunities to grow. Currently, I am interested in expanding my knowledge in React.js and React Native, and I am excited to see what the future holds in this ever-evolving field.
 </div>
+<br> 
 
-- 🔭 I’m currently working on **Freelance Platform**       - 🌱 I’m currently learning **Back-End development**
+🔭 I’m currently working on **Freelance Platform**       - 🌱 I’m currently learning **Back-End development**
 
-- 👯 I’m looking to collaborate on **React js projects**   - 🤝 I’m looking for help with **Front-End development**
+👯 I’m looking to collaborate on **React js projects**   - 🤝 I’m looking for help with **Front-End development**
 
-- 💬 Ask me about **Front-End development**                - 👨‍💻 All of my projects are available at [princemuhammad.dev](princemuhammad.dev)
+💬 Ask me about **Front-End development**                - 👨‍💻 All of my projects are available at [princemuhammad.dev](princemuhammad.dev)
 
-- 📫 How to reach me **priiincemuhammad@gmail.com**
+📫 How to reach me **priiincemuhammad@gmail.com**
  
 
 <br> 
