@@ -6,14 +6,16 @@
 <br>
 ✨ As a passionate learner, I am always looking for new challenges and opportunities to grow. Currently, I am interested in expanding my knowledge in React.js and React Native, and I am excited to see what the future holds in this ever-evolving field.
 </div>
+
+- 🔭 I’m currently working on **Freelance Platform**       - 🌱 I’m currently learning **Back-End development**
+
+- 👯 I’m looking to collaborate on **React js projects**   - 🤝 I’m looking for help with **Front-End development**
+
+- 💬 Ask me about **Front-End development**                - 📫 How to reach me **priiincemuhammad@gmail.com**
+ 
+ - 👨‍💻 All of my projects are available at [princemuhammad.dev](princemuhammad.dev)
+
 <br> 
-🔭 I’m currently working on **Freelance Platform**    - 🌱 I’m currently learning **Back-End development**
-<br>
-<br>
-👯 I’m looking to collaborate on **React js projects**  - 🤝 I’m looking for help with **Front-End development**
-<br>
-<br>
-💬 Ask me about **Front-End development**  - 👨‍💻 All of my projects are available at https://princemuhammad.dev
  
  
 <h3 align="left">Languages and Tools:</h3>
@@ -22,7 +24,7 @@
 <br>
  
 <a href="https://github-readme-stats.vercel.app/api?username=priiincemuhammad&show_icons=true&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=priiincemuhammad&show_icons=true&count_private=true" width=420/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=priiincemuhammad&show_icons=true&count_private=true" width=400/>
 </a>
 </div>
 <a href="https://streak-stats.demolab.com?user=priiincemuhammad">
@@ -30,7 +32,9 @@
 </a>
 <br>
 <br>
-
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priiincemuhammad&layout=compact)](https://github.com/priiincemuhammad/github-readme-stats) 
+ 
 ![Profile views](https://gpvc.arturio.dev/priiincemuhammad)  
 
 
