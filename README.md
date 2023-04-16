@@ -22,7 +22,7 @@
 <br>
  
 <a href="https://github-readme-stats.vercel.app/api?username=priiincemuhammad&show_icons=true&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=priiincemuhammad&show_icons=true&count_private=true" width=400/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=priiincemuhammad&show_icons=true&count_private=true" width=420/>
 </a>
 </div>
 <a href="https://streak-stats.demolab.com?user=priiincemuhammad">
