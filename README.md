@@ -21,13 +21,15 @@
 
 <br>
  
-<a href="https://github-readme-stats.vercel.app/api?username=priiincemuhammad&show_icons=true&count_private=true&theme=cobalt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=priiincemuhammad&show_icons=true&count_private=true&theme=cobalt" width=400/>
+<a href="https://github-readme-stats.vercel.app/api?username=priiincemuhammad&show_icons=true&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=priiincemuhammad&show_icons=true&count_private=true" width=400/>
 </a>
 </div>
-<a href="https://streak-stats.demolab.com?user=priiincemuhammad&bg_color=000">
-  <img align="center" src="https://streak-stats.demolab.com?user=priiincemuhammad&theme=cobalt" width=420/>
+<a href="https://streak-stats.demolab.com?user=priiincemuhammad">
+  <img align="center" src="https://streak-stats.demolab.com?user=priiincemuhammad" width=420/>
 </a>
+<br>
+<br>
 
 ![Profile views](https://gpvc.arturio.dev/priiincemuhammad)  
 
