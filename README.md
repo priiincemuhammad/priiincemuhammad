@@ -23,6 +23,8 @@
 
 <br>
  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priiincemuhammad&layout=compact)](https://github.com/priiincemuhammad/github-readme-stats) 
+ 
 <a href="https://github-readme-stats.vercel.app/api?username=priiincemuhammad&show_icons=true&count_private=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=priiincemuhammad&show_icons=true&count_private=true" width=400/>
 </a>
@@ -32,9 +34,7 @@
 </a>
 <br>
 <br>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priiincemuhammad&layout=compact)](https://github.com/priiincemuhammad/github-readme-stats) 
- 
+   
 ![Profile views](https://gpvc.arturio.dev/priiincemuhammad)  
 
 
