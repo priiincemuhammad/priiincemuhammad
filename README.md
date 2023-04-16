@@ -11,9 +11,10 @@
 
 - 👯 I’m looking to collaborate on **React js projects**   - 🤝 I’m looking for help with **Front-End development**
 
-- 💬 Ask me about **Front-End development**                - 📫 How to reach me **priiincemuhammad@gmail.com**
+- 💬 Ask me about **Front-End development**                - 👨‍💻 All of my projects are available at [princemuhammad.dev](princemuhammad.dev)
+
+- 📫 How to reach me **priiincemuhammad@gmail.com**
  
- - 👨‍💻 All of my projects are available at [princemuhammad.dev](princemuhammad.dev)
 
 <br> 
  
