@@ -7,12 +7,19 @@
 ✨ As a passionate learner, I am always looking for new challenges and opportunities to grow. Currently, I am interested in expanding my knowledge in React.js and React Native, and I am excited to see what the future holds in this ever-evolving field.
 </div>
 <br> 
+ <img align="right" alt="Coding" style="border-radius:100px;" width="400" src="/tech.gif"/>
 
-🔭 I’m currently working on **Freelance Platform**       - 🌱 I’m currently learning **Back-End development**
+🔭 I’m currently working on **Freelance Platform**  
 
-👯 I’m looking to collaborate on **React js projects**   - 🤝 I’m looking for help with **Front-End development**
+🌱 I’m currently learning **Back-End development**
 
-💬 Ask me about **Front-End development**                - 👨‍💻 All of my projects are available at [princemuhammad.dev](https://princemuhammad.dev)
+👯 I’m looking to collaborate on **React js projects**   
+
+🤝 I’m looking for help with **Front-End development**
+
+💬 Ask me about **Front-End development**           
+
+👨‍💻 All of my projects are available at [princemuhammad.dev](https://princemuhammad.dev)
 
 📫 How to reach me **priiincemuhammad@gmail.com**
  
@@ -23,6 +30,7 @@
 <br>
  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priiincemuhammad&layout=compact)](https://github.com/priiincemuhammad/github-readme-stats) 
+  
  
 <a href="https://github-readme-stats.vercel.app/api?username=priiincemuhammad&show_icons=true&count_private=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=priiincemuhammad&show_icons=true&count_private=true" width=400/>
