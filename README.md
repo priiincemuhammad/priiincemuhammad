@@ -31,20 +31,20 @@
 
 <br>
  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priiincemuhammad&layout=compact)](https://github.com/priiincemuhammad/github-readme-stats) 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priincemuhammad&layout=compact)](https://github.com/priincemuhammad/github-readme-stats) 
   
  
-<a href="https://github-readme-stats.vercel.app/api?username=priiincemuhammad&show_icons=true&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=priiincemuhammad&show_icons=true&count_private=true" width=400/>
+<a href="https://github-readme-stats.vercel.app/api?username=priincemuhammad&show_icons=true&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=priincemuhammad&show_icons=true&count_private=true" width=400/>
 </a>
 </div>
-<a href="https://streak-stats.demolab.com?user=priiincemuhammad">
-  <img align="center" src="https://streak-stats.demolab.com?user=priiincemuhammad" width=420/>
+<a href="https://streak-stats.demolab.com?user=priincemuhammad">
+  <img align="center" src="https://streak-stats.demolab.com?user=priincemuhammad" width=420/>
 </a>
 <br>
 <br>
    
-![Profile views](https://gpvc.arturio.dev/priiincemuhammad)  
+![Profile views](https://gpvc.arturio.dev/priincemuhammad)  
 
 
 
