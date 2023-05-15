@@ -19,7 +19,7 @@
 
 💬 Ask me about **Front-End development**           
 
-👨‍💻 All of my projects are available at [princemuhammad.dev](https://princemuhammad.dev)
+👨‍💻 All of my projects are available at [princemuhammad.pro](http://princemuhammad.pro)
 
 📫 How to reach me **priiincemuhammad@gmail.com**
 
