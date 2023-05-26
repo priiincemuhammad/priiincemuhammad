@@ -1,4 +1,5 @@
-<h1 align="left">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Prince Muhammad</h1>
+<img align="center" alt="banner" style="border-radius:100px;"  src="/GitHubHeader.png"/>
+
 <h3 align="left">A passionate Front-End Engineer Based in Bangladesh</h3> 
 <div align="left">
 ✨ As a Software Developer, I am constantly seeking to expand my knowledge and skills in the field. While I completed an immersive software engineering program that provided a solid foundation in technology fundamentals and full-stack development, I have also pursued self-directed learning to further enhance my abilities.
