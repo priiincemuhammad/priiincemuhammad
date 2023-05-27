@@ -1,4 +1,4 @@
-<img align="center" alt="banner" style="border-radius:100px;"  src="/GitHubHeader.png"/>
+<h1 align="left">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm Prince Muhammad</h1>
 
 <h3 align="left">A passionate Front-End Engineer Based in Bangladesh</h3> 
 <div align="left">
